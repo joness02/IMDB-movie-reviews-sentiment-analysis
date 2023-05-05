@@ -10,10 +10,6 @@ This is a Kaggle project that involves sentiment analysis on a large dataset of 
   * My approach here was to compare three different models to run on the dataset so that I can evaluate the accuracy of the models and then find the best one from the set models.
   * My best model here was the Logistic Regression Classifier that gave me a 88% accuracy and it can be best used to analyze the sentiment of the given dataset.
 
-## Summary of Workdone
-
-Include only the sections that are relevant an appropriate.
-
 ### Data
 
   * Type: CSV file.
