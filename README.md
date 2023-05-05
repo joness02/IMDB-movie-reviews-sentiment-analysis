@@ -13,7 +13,7 @@ This is a Kaggle project that involves sentiment analysis on a large dataset of 
 ### Data
 
   * Type: CSV file.
-  * Size: How much data?
+  * Size: The dataset contained 50,000 data points.
   * Instances (Train, Test, Validation Split): There are 50,000 data points in this dataset which were divided into 80-20 split for training and testing with none for validation.
 
 #### Preprocessing / Clean up
