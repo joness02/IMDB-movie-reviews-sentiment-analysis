@@ -56,6 +56,10 @@ The table above shows us the comparison of the models and the best model to use 
 
 * Apart from these models that I used I would like to test the dataset upon various other model sand build one myself to test it on real time data.
 
+### Reproducing Results
+
+* To reproduce the results you just have to use this function from the notebook **y_pred = clf.predict('Your text to be analyzed.')** and enter your text so that it can evaluate and give you the analysis.
+
 ### Overview of files in repository
 
 * There are only 2 files in this repository, one being the README file and the other the IMDB Review project code.ipynb which contains the code for the challenge.
